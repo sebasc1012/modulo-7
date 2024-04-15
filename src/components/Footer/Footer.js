@@ -191,7 +191,7 @@ const MainNavArea = styled.div`
     display:grid;
     grid-template-columns:1fr 1fr 1fr;
     text-align: start;
-  },
+  }
   @media${QUERIES.laptopAndUp}{
     display:grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
